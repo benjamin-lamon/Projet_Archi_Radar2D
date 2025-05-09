@@ -7,5 +7,5 @@ Il est important de noter que vous aurez besoin de Quartus Prime 18.1 pour impl�
 
 ## Fichiers
 
-Vous devez tout d'abord décompresser toutes les archives .rar ; ensuite, vous utiliserez le fichier DE10_Lite_Computer_YD/DE10_Lite_Computer.qpf pour implémenter sur la carte. Les autres fichiers .qpf sont utilisés pour tester directement l'implémentation VHDL sur la carte, sans passer par le softcore Nios II.
+Vous devez tout d'abord décompresser toutes les archives .rar ; ensuite, vous utiliserez le fichier [DE10_Lite_Computer_YD](https://drive.google.com/drive/folders/1E1-gi28FfI5vytQhbxyX6NaZTL9xIUJw)/DE10_Lite_Computer.qpf pour implémenter sur la carte. Les autres fichiers .qpf sont utilisés pour tester directement l'implémentation VHDL sur la carte, sans passer par le softcore Nios II.
 
